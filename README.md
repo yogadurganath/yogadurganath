@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 💬 Wanna know about me, visit my portfolio: https://yogiweb.dev
-- 📫 Reach me at hi@yogiweb.dev
+- 💬 Wanna know about me, visit my portfolio: https://theyogi.dev
+- 📫 Reach me at yogadurganath@gmail.com
 <!--
 **yogadurganath/yogadurganath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
