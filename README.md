@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💬 Wanna know about me, visit my portfolio: https://theyogi.dev
+- 💬 Wanna know about me, visit my portfolio: https://www.theyogi.dev
 - 📫 Reach me at yogadurganath@gmail.com
 <!--
 **yogadurganath/yogadurganath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
