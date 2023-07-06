@@ -1,8 +1,7 @@
 ### Hello World!
-## Great to see you, Welcome to my Github portfolio.
-### Let me introduce my self 🧑🏻‍💻:  
-I'm <b>Yoga Durganath D</b>, 
-my friends call me '<b>Yogi</b>'.  
+## Great to see you. Welcome to my GitHub portfolio.
+### Let me introduce myself 🧑🏻‍💻:  
+I'm <b>Yoga Durganath D</b>. My friends call me '<b>Yogi</b>'.  
 - Live in <b>Toronto🇨🇦 </b>:: From <b>India 🇮🇳</b>
 - 🌏 Portfolio: https://www.theyogi.dev
 - 📫 Email: yogadurganath@gmail.com.  
@@ -12,10 +11,10 @@ my friends call me '<b>Yogi</b>'.
 | Languages | HTML, CSS, JavaScript, ES6+, TypeScript, PHP, Python, C, C++, Java, jQuery|  
 | Frameworks/Lib | Bootstrap, React JS, Angular 10+, Express JS|  
 | Design Tools | Adobe Photoshop, Adobe Illustrator, Adobe XD/Figma|  
-| Databases | MongoDB, MySQL, SQL Server, PostgresSQL, Oracle PL/SQL|  
+| Databases | MongoDB, MySQL, SQL Server, PostgreSQL, Oracle PL/SQL|  
 | ORM | Mongoose, Sequelize |  
 | Version Control | GitHub, Bitbucket, SVN|  
-| OS | Windows, Linux(Ubantu, CentOS, RedHat), macOS|  
+| OS | Windows, Linux(Ubuntu, CentOS, RedHat), macOS|  
 
 ### Work Experience
 
